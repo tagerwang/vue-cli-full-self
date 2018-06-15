@@ -1,4 +1,4 @@
-# factory-manage-fe
+# vue-cli-self
 
 > A Vue.js project
 
