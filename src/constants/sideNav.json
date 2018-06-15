@@ -1,0 +1,20 @@
+[
+	{
+		"id": "/welcome",
+		"name": "home",
+		"zhLabel": "工作台",
+		"enLabel": "",
+		"icon": "home",
+		"parent": "0",
+		"children": []
+	},
+	{
+		"id": "/payslip",
+		"name": "payslip",
+		"zhLabel": "员工薪资单",
+		"enLabel": "",
+		"icon": "file",
+		"parent": "0",
+		"children": []
+	}
+]

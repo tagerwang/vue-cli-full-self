@@ -1,0 +1,12 @@
+{
+  "agreement": {
+    "action": {},
+    "getter": {
+      "detail": "detail"
+    },
+    "mutation": {
+      "clear": "clear",
+      "update": "update"
+    }
+  }
+}

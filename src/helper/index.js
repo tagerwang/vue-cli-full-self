@@ -1,0 +1,5 @@
+export { default as $ajax } from './ajax'
+export { default as $page } from './apis'
+export { default as $auth } from './auth'
+export { default as $utils } from './utils'
+export { default as $dom } from './dom'
